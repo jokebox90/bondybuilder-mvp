@@ -53,7 +53,7 @@ export default function Layout({ children }: LayoutProps) {
   return (
     <Fragment>
       <Head>
-        <title>Bondy Builder, construisez votre propre vision d&apos;intérieur</title>
+        <title>Bondy Builder, construisez votre propre vision de l&apos;intérieur</title>
         <meta
           name="description"
           content="Bondy Builder, vos experts en rénovation intérieure à Bondy. Spécialisés dans les installations électriques et de plomberie, transformations espaces de vie et l'aménagement avec élégance et confort. Services incluant peinture, pose de revêtements muraux et sols, la maçonnerie et la menuiserie. Faites nous confiance pour des solutions de décoration et de rénovation sur mesure, alliant qualité et attention du détail. Contactez-nous pour redéfinir votre espace avec style et fonctionnalité"
